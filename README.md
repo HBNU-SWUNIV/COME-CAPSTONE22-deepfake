@@ -16,7 +16,7 @@
 ## System Design
   - ### System Requirements
     - 모델 도면
-    - OOO
+    ![image](https://user-images.githubusercontent.com/54435771/205571508-15d7ec61-8606-40cc-a490-ae638ccd01ba.png)
     
 ## Case Study
   - ### Description
@@ -25,7 +25,13 @@
   
 ## Conclusion
   - ### 학습에 반영한 공격들 뿐만 아니라 학슴에 반영하지 않은 공격들에 대해서도 높은 탐지 강인성 확인
-  - ### 정확도 사진 첨부, GUI 사진 첨부
+  - 정확도 측정 결과
+  ![image](https://user-images.githubusercontent.com/54435771/205572001-1f8193ef-e8b6-4ea2-ba50-2d02d81a543d.png)
+
+  - GUI
+  ![image](https://user-images.githubusercontent.com/54435771/205572046-fdaeb26b-28d5-4ae3-95e3-7129a945d91c.png)
+
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- 2022 정보처리학회(ASK) 춘계 학술대회 ‘학부생 논문경진대회’ 동상 수상
+- 2022 한구디지털포렌식학회 하계 학술대회 경찰청장상 수상
